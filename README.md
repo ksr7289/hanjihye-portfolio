@@ -1,2 +1,2 @@
-# hanjihye-portfolio
-hanjihye-portfolio
+# Han Jihye Portfolio
+Upload to Vercel.
